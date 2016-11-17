@@ -1,0 +1,9 @@
+Building Boson
+
+See doc/readme-qt.rst for instructions on building Boson QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Boson.
+
+See doc/build-*.txt for instructions on building Bosond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Boson.
